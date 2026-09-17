@@ -103,10 +103,10 @@ The final topics selection and programming will be settled soon.
 | start | end   | topic                                                     |
 | ----- | ----- | ----------------------------------------------------------|
 | 08:45 | 09:00 | On-site registration                                      |
-| 09:00 | 09:15 | Introduction and presentation of the Lorena Abad award    |
-| 09:15 |10:30 |   Keynote by the Award                                     |
+| 09:00 | 09:15 | Introductions                                             |
+| 09:15 | 10:30 | LLM/Agentic Coding  (Maarten Pronk)                       |      
 | 10:30 | 11:00 | Coffee break                                              |
-| 11:00 | 12:15 |LLM/Agentic Coding  (Maarten Pronk)                        |
+| 11:00 | 12:15 | Cloud Ready Data Formats (Wei Ji Leong, Felix Cremer)     |
 | 12:15 | 13:45 | Lunch                                                     |
 | 13:45 | 15:00 | Discrete Global Grid Systems (Benoit Bovy, Anshul Singhvi)|
 | 15:00 | 15:30 | Coffee break                                              |
@@ -119,8 +119,8 @@ The final topics selection and programming will be settled soon.
 
 | start | end   | topic                                                     |
 | ----- | ----- | ----------------------------------------------------------|
-| 09:00 | 09:15 | Recap                                                     |
-| 09:15 | 10:30 | Cloud Ready Data Formats (Wei Ji Leong, Felix Cremer)     |
+| 09:00 | 09:15 | Recap and presentation of the Lorena Abad award           |
+| 09:15 | 10:30 | Keynote by the Award                                      |
 | 10:30 | 11:00 | Coffee break                                              |
 | 11:00 | 12:15 | Large Data Processing (Yu-Feng Ho)                        |
 | 12:15 | 13:45 | Lunch                                                     |
